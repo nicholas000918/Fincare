@@ -1,0 +1,13 @@
+body{
+  background-color: #F5E8C7;
+}
+
+hr{
+  height: 10px;
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: gray;
+}
+
+/*This is a comment*/
